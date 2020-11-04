@@ -1,0 +1,45 @@
+class Program
+{
+  
+  //int c;
+  int c[9],b[1],fd;
+  
+  int my_method(int a, int b)
+  {
+    return a+b;
+  }
+  
+  int foo(boolean a)
+  {
+    int c,num1,y, add;
+	char XX,s;
+    int test = 12+foo(false);	
+	
+	int test, test1;    
+	
+	num1 = 34;
+	numberTest = 1222;
+	s = 'l';
+	num1 = 10;
+	y = 123;
+	add = num1+s;	
+	break;
+	
+	int bbbbb = fool(122) + test;
+	//y = my_method(foo(false),122);
+	//add = s;
+  }
+  
+  //void main ()
+  //{
+    //int b;
+   // foo(12);	
+
+	//a = my_method(foo(1),12);
+    //my_method(foo(1),12);
+	
+	//myTest(45, false);
+    
+  //}
+
+}
